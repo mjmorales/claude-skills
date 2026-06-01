@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skills",
+  "description": "Manuel's reusable Claude Code skills, commands, agents, prompts, and scripts.",
+  "owner": {
+    "name": "Manuel Morales"
+  },
+  "plugins": [
+    {
+      "name": "claude-skills",
+      "description": "Personal collection of reusable Claude Code skills, slash commands, subagents, prompts, and scripts.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Manuel Morales"
+      },
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

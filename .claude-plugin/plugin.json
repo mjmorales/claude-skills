@@ -1,0 +1,10 @@
+{
+  "name": "claude-skills",
+  "description": "Personal collection of reusable Claude Code skills, slash commands, subagents, prompts, and scripts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Manuel Morales",
+    "email": "morales.jmanuel16@gmail.com"
+  },
+  "license": "MIT"
+}
